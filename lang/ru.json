@@ -1,0 +1,18 @@
+{
+    "Dashboard": "Панель",
+    "Profile": "Профиль",
+    "Log Out": "Выйти",
+    "Name": "Имя",
+    "Email": "Электронная почта",
+    "Password": "Пароль",
+    "Confirm Password": "Подтвердите пароль",
+    "Remember me": "Запомнить меня",
+    "Forgot your password?": "Забыли пароль?",
+    "Log in": "Войти",
+    "Register": "Зарегистрироваться",
+    "Already registered?": "Уже зарегистрированы?",
+    "Save": "Сохранить",
+    "Saved.": "Сохранено.",
+    "Current Password": "Текущий пароль",
+    "New Password": "Новый пароль"
+}
